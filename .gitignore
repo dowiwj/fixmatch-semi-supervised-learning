@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Dataset
+data/
+dataset/
+
+# Model checkpoints
+*.pt
+*.pth
+checkpoints/
+
+# Secrets
+.env
+
+# IDE
+.vscode/
